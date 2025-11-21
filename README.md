@@ -9,10 +9,10 @@
 
 ## 🔥 About Me
 
-- 💼 Former **Senior SAP FICO Consultant** (10+ years)  
+- 💼 Former **Senior SAP FICO Consultant/Accounts payables/Accounts receivbles/GL accounting/Assest maanagement/End-to-End implementations** (10+ years)  
 - 📊 Currently building **ML/AI + analytics projects** for real business impact  
 - 🧠 Strong in **Python, SQL, Machine Learning, Power BI, Cloud**  
-- 📌 Goal: Become **ML / AI Analyst / Engineer**  
+- 📌 Goal: Become **ML / AI Analyst / Engineer/Business analyst/ Data analyst**  
 - 🌱 Always learning and sharing on GitHub  
 
 ---
