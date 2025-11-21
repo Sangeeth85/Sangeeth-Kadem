@@ -52,15 +52,7 @@
 **Cloud & Tools**
 - GCP / Vertex AI, Jupyter, Colab  
 
----
-
-## 📌 Featured Projects
-
-- 🔹 **Project 1 Name:** short 1-line about what it does  
-- 🔹 **Project 2 Name:** short 1-line about what it does  
-- 🔹 **Project 3 Name:** short 1-line about what it does  
-
----
+ 
 
 ## 📈 GitHub Stats
 
