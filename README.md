@@ -1,5 +1,54 @@
-# Sangeeth-Kadem
-Hi, I’m Sangeeth Kadem — Business Analytics grad @ UNT and a builder of finance-driven AI solutions. With 10+ years as a Senior SAP FICO Consultant, I specialize in FI/CO, AR/AP, GL, Asset Accounting, COPA, and month-end/year-end close.
-I’ve delivered Greenfield/Brownfield implementations, migrations, and AMS support with strong FI-MM integration, Central Finance, VIM, Vertex, BTP, and Grants Management exposure.
-I design ML and predictive models using Python, SQL, Pandas, scikit-learn, XGBoost/Random Forest, and deploy insights through Power BI/Tableau dashboards
-My projects span real-world datasets like U.S. federal spending, transportation (TxDOT), and healthcare analytics to uncover patterns and drive decisions
+# 👋 Hi, I'm Sangeeth Kadem
+
+🚀 **Business Analytics | ML / AI Enthusiast | SAP FICO Consultant**  
+🎓 Master’s in Business Analytics @ University of North Texas  
+💡 Interested in ML, LLMs, Data Engineering, and Real-world Analytics  
+📍 Texas, USA  
+
+---
+
+## 🔥 About Me
+
+- 💼 Former **Senior SAP FICO Consultant** (10+ years)  
+- 📊 Currently building **ML/AI + analytics projects** for real business impact  
+- 🧠 Strong in **Python, SQL, Machine Learning, Power BI, Cloud**  
+- 📌 Goal: Become **ML / AI Analyst / Engineer**  
+- 🌱 Always learning and sharing on GitHub  
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming & Data**
+- Python, SQL, R, Pandas, NumPy, Scikit-learn , Huggingface ,NosQL ,
+
+**ML / AI**
+- Regression, Classification, Clustering, NLP, LLM tools , Deep Learning , AI agents ,
+
+**BI & Analytics**
+- Power BI, Tableau, Excel, Looker Studio  
+
+**Cloud & Tools**
+- GCP / Vertex AI, AWS basics, Git, Docker, Jupyter, Colab  
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 **Project 1 Name:** short 1-line about what it does  
+- 🔹 **Project 2 Name:** short 1-line about what it does  
+- 🔹 **Project 3 Name:** short 1-line about what it does  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/sangeethkadem
+- Email: sangeethkademusa@gmail.com  
