@@ -50,7 +50,7 @@
 - Power BI, Tableau, Excel, Looker Studio  
 
 **Cloud & Tools**
-- GCP / Vertex AI, AWS basics, Git, Docker, Jupyter, Colab  
+- GCP / Vertex AI, Jupyter, Colab  
 
 ---
 
