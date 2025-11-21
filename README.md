@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Sangeeth Kadem
+# 👋 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=39D353&center=true&vCenter=true&width=900&lines=Hey%2C+there!!+I%27m+Sangeeth+and+Welcome+to+my+Profile!" alt="Typing SVG" />
+</p>
+
 
 🚀 **Business Analytics | ML / AI Enthusiast | SAP FICO Consultant**  
 🎓 Master’s in Business Analytics @ University of North Texas  
